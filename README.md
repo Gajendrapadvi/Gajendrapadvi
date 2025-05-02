@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there, I'm Gajendrapadvi!
+
+Welcome to my GitHub profile!  
+I'm passionate about learning, exploring new technologies, and building useful projects.
+
+## About Me
+- I'm a developer who loves to experiment with code and solve real-world problems.
+- Always eager to learn something new every day.
+
+## Technologies I’m familiar with
+- HTML, CSS, JavaScript
+- Git & GitHub
+- [Add more here as per your skillset]
+
+## Projects
+- You can check out my repositories to see what I'm currently working on or have built in the past.
+
+## Let's connect!
+Feel free to follow me or reach out:
+- GitHub: [Gajendrapadvi](https://github.com/Gajendrapadvi)![mockup](https://github.com/user-attachments/assets/ee71699d-eeb9-473c-97c4-1549fa8a1c8b)
