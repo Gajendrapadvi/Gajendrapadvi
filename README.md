@@ -33,4 +33,3 @@ I'm passionate about learning, exploring new technologies, and building useful p
 
 ## Let's connect!
 Feel free to follow me or reach out:
-- GitHub: [Gajendrapadvi](https://github.com/Gajendrapadvi)![mockup](https://github.com/user-attachments/assets/ee71699d-eeb9-473c-97c4-1549fa8a1c8b)
